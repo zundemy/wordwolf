@@ -105,7 +105,7 @@ function App() {
     }
     
     // 5分（300秒）のタイマーを設定
-    setTimeRemaining(3);
+    setTimeRemaining(300);
     
     // 1秒ごとにカウントダウン
     const id = setInterval(() => {
