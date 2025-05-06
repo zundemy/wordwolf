@@ -246,10 +246,6 @@ function App() {
           />
         )}
       </main>
-      
-      <footer className="app-footer">
-        <p>© 2025 ワードウルフゲーム</p>
-      </footer>
     </div>
   );
 }
