@@ -7,7 +7,7 @@ import { GameBoard } from '@/components/game-board';
 import { WolfSelection } from '@/components/wolf-selection';
 import { GameResult } from '@/components/game-result';
 
-export default function Home() {
+export default function Page() {
   const {
     gameState,
     settings,
