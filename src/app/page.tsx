@@ -1,11 +1,11 @@
 'use client';
 
-import { useGame } from '@/hooks/useGame';
-import { GameSetup } from '@/components/GameSetup';
-import { WordReveal } from '@/components/WordReveal';
-import { GameBoard } from '@/components/GameBoard';
-import { WolfSelection } from '@/components/WolfSelection';
-import { GameResult } from '@/components/GameResult';
+import { useGame } from '@/hooks/use-game';
+import { GameSetup } from '@/components/game-setup';
+import { WordReveal } from '@/components/word-reveal';
+import { GameBoard } from '@/components/game-board';
+import { WolfSelection } from '@/components/wolf-selection';
+import { GameResult } from '@/components/game-result';
 
 export default function Home() {
   const {

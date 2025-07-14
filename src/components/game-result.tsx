@@ -1,5 +1,5 @@
 import { GameState } from '@/types/game';
-import { PlayerCard } from './PlayerCard';
+import { PlayerCard } from './player-card';
 
 interface GameResultProps {
   gameState: GameState;

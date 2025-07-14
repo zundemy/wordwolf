@@ -1,5 +1,5 @@
 import { GameState } from '@/types/game';
-import { Timer } from './Timer';
+import { Timer } from './timer';
 
 interface GameBoardProps {
   gameState: GameState;
